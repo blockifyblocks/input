@@ -1,0 +1,15 @@
+{
+  "name": "input",
+  "description": "A multi-purpose block for creating input fields",
+  "authors": [
+    "Blockify <info@blockify.co> (http://blockify.co/)"
+  ],
+  "defaults": {
+    "type": "text",
+    "name": "core-input"
+  },
+  "version": "1.0.0",
+  "main": "input.php",
+  "license": "MIT",
+  "homepage": "https://github.com/blockifyblocks/input"
+}
